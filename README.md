@@ -1,3 +1,4 @@
+REMOTE
 # merge-conflits
 
 a lines
